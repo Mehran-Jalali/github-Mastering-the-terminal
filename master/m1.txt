@@ -1,0 +1,4 @@
+      ==>Git push<==
+1)git remote add ((origin)) https://github.com/Mehran-Jalali/github-basics.git
+2)git branch-M ((master))     ==>For rename our branch to smth for exapmle master
+3)git push ((origin)) ((master))     
