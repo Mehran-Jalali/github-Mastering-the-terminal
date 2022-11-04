@@ -1,0 +1,45 @@
+     Commands In terminals like BASH,zShell,...
+--------------------------------------------------------------------------
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+ls  ==> Showing the content you have in directory.
+
+pwd ==> Showing the Path you are in.
+
+cd  ==> Change Directory : we use it to move forward and backwards.
+i.e. cd moon ==> we move to moon folder and * we can just say << cd mo >>
+and hit tab on keyboard to complete the command faster .
+
+cls or clear ==> For clearing the console. 
+
+cd .. ==> We can " back up" one directory. It's like back button in windows.
+
+cd ~ ==> You can get to your home directory very quickly.
+
+cd ../../..n ==> We can "back up" n level we want.
+
+mkdir X ==> We can make directory with a name (X).
+
+mkdir X Y Z ==> You can  make 3 folders called X, Y and Z at once.
+
+mkdir ../X ==> You can make a folder called X in one folder (directory) back. 
+
+man ls ==> It's not going to fulfill ls command; It's going to show information about ls command.
+
+cd / ==> It's going to root directory. 
+
+touch X.js ==> You can  make a JavaScript file called x.
+
+touch X.html Y.css Z.js ==> you can make 3 file at once.
+
+   -------- Remove Directory & File -----------
+   
+   Be careful with these commands cause It's not going to your recycle bin and It will remove.
+
+rm X.html ==> It's gonna ReMove the file.
+
+rm X.html Y.css Z.js ==> It's gonna ReMove all 3 files at once.
+
+rmdir X ==> It's gonna ReMove the folder.
+
+rm -rf X ==>  It's gonna ReMove the folder even if it has stuff in it like files or folders.
